@@ -51,8 +51,10 @@ School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 20
 
 <!-- slide vertical=true -->
 
-- **Risk communication before the COVID-19 outbreak: an analysis of media reports**, mentor: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
-- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo”**, mentor: Prof. Zhiyuan Hou (Fudan University)
+- **Risk communication before the COVID-19 outbreak: an analysis of media reports**
+  - mentor: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
+- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo”**
+  - mentor: Prof. Zhiyuan Hou (Fudan University)
 
 <!-- slide vertical=true -->
 
@@ -112,4 +114,5 @@ School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 20
 
 ## 我的一些文字
 
-- [zhihu.com](https://www.zhihu.com/people/yuan-ming-he-li)
+- [zhihu](https://www.zhihu.com/people/yuan-ming-he-li)
+- [douban](https://www.douban.com/people/189055588/)
