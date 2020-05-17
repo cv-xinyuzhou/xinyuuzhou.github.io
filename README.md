@@ -1,6 +1,6 @@
 ## Homepage - Xinyu Zhou
 
-Welcome to my personal website!
+Welcome to my personal website/CV!
 
 <!-- slide -->
 
