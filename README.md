@@ -23,7 +23,7 @@ Welcome to my personal website!
 
 <!-- slide vertical=true -->
 
-School of Public Health, Fudan University, Shanghai, Sept. 2017 - Jul. 2022(expected)
+**School of Public Health, Fudan University, Shanghai, Sept. 2017 - Jul. 2022(expected)**
 
 - Bachelor of Art in Management (Health Policy and Management Track)
 - Minor in Data Science
@@ -31,7 +31,7 @@ School of Public Health, Fudan University, Shanghai, Sept. 2017 - Jul. 2022(expe
   - Ranking: 10/120
 - Double Major in Chinese Language and Literature
 
-School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 2019
+**School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 2019**
 
 - UC exchange program
 - GPA: 4.00/4.00
