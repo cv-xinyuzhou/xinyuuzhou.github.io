@@ -58,6 +58,7 @@ School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 20
 
 - **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**, mentor: Prof. Tim Bruckner (UC Irvine)
 
+<!-- slide -->
 
 ## Social Engagements
 
