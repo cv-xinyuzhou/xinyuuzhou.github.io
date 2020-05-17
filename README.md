@@ -1,62 +1,92 @@
-# 星合の空
+# CV - Xinyu Zhou
 
 欢迎访问我的个人主页！下面向你介绍一下我自己吧！
 
 <!-- slide -->
 
-## 我的一些联系方式
+## Contact Infomation
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
+- Address: **Fudan University - 220 Handan Rd. - Shanghai, China**
+- Phone: **+86 17717069771**
+- Researchgate: **<https://www.researchgate.net/profile/Xinyu_Zhou33>**
 
 <!-- slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+  - **[xinyuzhou17@fudan.edu.cn](xinyuzhou17@fudan.edu.cn)**
+  - **[hsinyu.zhou@gmail.com](hsinyu.zhou@gmail.com)**
+- WeChat: **17717069771**
+- QQ: **827167434**
 
 <!-- slide -->
 
-## 我的一些教育情况
+## Education
 
 <!-- slide vertical=true -->
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
+School of Public Health, Fudan University, Shanghai, Sept. 2017 - Jul. 2022(expected)
 
-- Bachelor of Computer Science (Supercomputer Class)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+- Bachelor of Art in Management (Health Policy and Management Track)
+- Minor in Data Science
+  - GPA: 3.48
+  - Ranking: 10/120
+- Double Major in Chinese Language and Literature
+
+School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 2019
+
+- UC exchange program
+- GPA: 4.00/4.00
 
 <!-- slide -->
 
-## 我的一些项目成果
+## Research items
 
 <!-- slide vertical=true -->
 
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
-  - 我的个人主页使用的主题样式，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
+- [Assessment of public attention, risk perception, emotional and behavioural responses to the COVID-19 outbreak: social media surveillance in China](https://www.medrxiv.org/content/10.1101/2020.03.14.20035956v1)
 
 <!-- slide -->
 
-## 我的一些成就
+## Research in progress
 
 <!-- slide vertical=true -->
 
-- **Top 0.05% in 11395**, [The 18th CCF Certified Software Professional](https://wu-kan.cn/_posts/2019-12-16-%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81/), Dec. 2019
-- **Silver Medal**, [ICPC Asia Regional Contest Xuzhou Site](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/), Nov. 2019
-- **Second Scholarship**, Oct. 2019
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
+- **Risk communication before the COVID-19 outbreak: an analysis of media reports**, mentor: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
+- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo”**, mentor: Prof. Zhiyuan Hou (Fudan University)
 
 <!-- slide vertical=true -->
 
-- **Third Scholarship**, Oct. 2018
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+- **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**, mentor: Prof. Tim Bruckner (UC Irvine)
+
+
+## Social Engagements
+
+<!-- slide vertical=true -->
+
+- **复旦大学中国象棋协会社长**, Sep. 2018 - Sep. 2019
+- **复旦大学学生会 新媒体中心副部长**, Sep. 2018 - Jan. 2019
+- **复旦大学公共卫生学院 17公管班班长**, Feb 2019 - Now
+- **复旦大学19级社会科学实验班 助辅**, Sep.2019 - Now
+
+<!-- slide vertical=true -->
+
+- **复旦大学远征社 社员**
+- **复旦大学中国象棋协会 社员**
+- **复旦大学学生会**
+  - **文艺部干事**
+  - **外联部干事**
+  - **外联部部助**
 
 <!-- slide -->
+
+
+## Awards
+
+<!-- slide vertical=true -->
+
+- **复旦大学中国象棋新生杯 男子组个人冠军**, Nov. 2017
+- **复旦大学远征社 优秀志愿者**, Sep. 2018 - Jan. 2019
+
 
 ## 我的一些技能
 
@@ -75,12 +105,6 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 20
 - **Linux**, Familiar&Learning
 - **Git**, Familiar
 - **VSCode**, Familiar
-
-<!-- slide -->
-
-## 我的一些领导力
-
-TBD
 
 <!-- slide -->
 
