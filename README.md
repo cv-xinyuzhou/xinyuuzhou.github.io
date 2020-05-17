@@ -1,6 +1,6 @@
-## CV - Xinyu Zhou
+## Homepage - Xinyu Zhou
 
-Welcome to my personal website!
+Welcome to my homepage!
 
 <!-- slide -->
 
@@ -8,7 +8,6 @@ Welcome to my personal website!
 
 - Address: **Fudan University - 220 Handan Rd. - Shanghai, China**
 - Phone: **+86 17717069771**
-- Researchgate: **<https://www.researchgate.net/profile/Xinyu_Zhou33>**
 
 <!-- slide vertical=true -->
 
@@ -45,6 +44,12 @@ School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 20
 
 - [Assessment of public attention, risk perception, emotional and behavioural responses to the COVID-19 outbreak: social media surveillance in China](https://www.medrxiv.org/content/10.1101/2020.03.14.20035956v1)
 
+<!-- slide vertical=true -->
+
+- Please refer to 
+  - [researchgate](https://www.researchgate.net/profile/Xinyu_Zhou33)
+  - [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=lP_Xz1UAAAAJ)
+
 <!-- slide -->
 
 ## Research in progress
@@ -80,7 +85,7 @@ School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 20
 
 <!-- slide -->
 
-## 我的一些文字
+## Social media
 
 - [zhihu](https://www.zhihu.com/people/yuan-ming-he-li)
 - [douban](https://www.douban.com/people/189055588/)
