@@ -40,11 +40,7 @@ Welcome to my personal website!
 
 ## Research items
 
-<!-- slide vertical=true -->
-
 - [Assessment of public attention, risk perception, emotional and behavioural responses to the COVID-19 outbreak: social media surveillance in China](https://www.medrxiv.org/content/10.1101/2020.03.14.20035956v1)
-
-<!-- slide vertical=true -->
 
 - Please refer to 
   - [researchgate](https://www.researchgate.net/profile/Xinyu_Zhou33)
