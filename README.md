@@ -88,7 +88,7 @@ Welcome to my personal website!
 
 - **Research assistant, Fudan University**, Nov. 2018 - Now
 - **Research assistant, UC Irvine**, Sep. 2019 - Jan. 2020
-- **Research assistant, LSHTM**, Feb 2019 - Now
+- **Research assistant, LSHTM**, May 2020 - Now
 
 <!-- slide vertical=true -->
 
@@ -110,6 +110,8 @@ Welcome to my personal website!
 <!-- slide vertical=true -->
 
 - **复旦大学中国象棋新生杯 男子组个人冠军**, Nov. 2017
+- **上海市中国象棋比赛 团体第二**, Dec 2017. 2017
+- **上海市中国象棋比赛 个人第七**, Dec 2017. 2017
 - **复旦大学远征社 优秀志愿者**, Sep. 2018 - Jan. 2019
 - **复旦大学本科生三等奖学金**, Sep. 2018
 - **复旦大学本科生三等奖学金**, Sep. 2019
