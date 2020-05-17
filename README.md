@@ -56,7 +56,8 @@ Welcome to my personal website!
   - mentor: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
 - **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo”**
   - mentor: Prof. Zhiyuan Hou (Fudan University)
-- **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**, mentor: Prof. Tim Bruckner (UC Irvine)
+- **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**
+  - mentor: Prof. Tim Bruckner (UC Irvine)
 
 <!-- slide -->
 
@@ -78,13 +79,6 @@ Welcome to my personal website!
 
 - **Markdown**, Familiar
 - **VSCode**, Familiar&Learning
-
-<!-- slide -->
-
-## Social media
-
-- [zhihu](https://www.zhihu.com/people/yuan-ming-he-li)
-- [douban](https://www.douban.com/people/189055588/)
 
 <!-- slide -->
 
@@ -120,3 +114,10 @@ Welcome to my personal website!
 - **复旦大学本科生三等奖学金**, Sep. 2018
 - **复旦大学本科生三等奖学金**, Sep. 2019
 - **复旦大学学生会社团骨干领航计划优秀成员**, Sep. 2018
+
+<!-- slide -->
+
+## Social media
+
+- [zhihu](https://www.zhihu.com/people/yuan-ming-he-li)
+- [douban](https://www.douban.com/people/189055588/)
