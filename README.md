@@ -1,6 +1,6 @@
-# CV - Xinyu Zhou
+## CV - Xinyu Zhou
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧！
+Welcome to my personal website!
 
 <!-- slide -->
 
@@ -55,43 +55,11 @@ School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 20
   - mentor: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
 - **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo”**
   - mentor: Prof. Zhiyuan Hou (Fudan University)
-
-<!-- slide vertical=true -->
-
 - **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**, mentor: Prof. Tim Bruckner (UC Irvine)
 
 <!-- slide -->
 
-## Social Engagements
-
-<!-- slide vertical=true -->
-
-- **复旦大学中国象棋协会社长**, Sep. 2018 - Sep. 2019
-- **复旦大学学生会 新媒体中心副部长**, Sep. 2018 - Jan. 2019
-- **复旦大学公共卫生学院 17公管班班长**, Feb 2019 - Now
-- **复旦大学19级社会科学实验班 助辅**, Sep.2019 - Now
-
-<!-- slide vertical=true -->
-
-- **复旦大学远征社 社员**, Sep. 2017 - Jan. 2018
-- **复旦大学中国象棋协会 社员**, Sep. 2017 - Sep. 2018
-- **复旦大学学生会**
-  - **文艺部干事**, Sep. 2017 - Jan. 2018
-  - **外联部干事**, Sep. 2017 - Jan. 2018
-  - **外联部部助**, Jan. 2018 - Jul. 2018
-
-<!-- slide -->
-
-
-## Awards
-
-<!-- slide vertical=true -->
-
-- **复旦大学中国象棋新生杯 男子组个人冠军**, Nov. 2017
-- **复旦大学远征社 优秀志愿者**, Sep. 2018 - Jan. 2019
-
-
-## 我的一些技能
+## Skills
 
 <!-- slide vertical=true -->
 
@@ -116,3 +84,38 @@ School of Social Science, University of California, Irvine, Sept. 2019 - Dec. 20
 
 - [zhihu](https://www.zhihu.com/people/yuan-ming-he-li)
 - [douban](https://www.douban.com/people/189055588/)
+
+<!-- slide -->
+
+## Internship
+
+<!-- slide vertical=true -->
+
+- **Research assistant, Fudan University**, Nov. 2018 - Now
+- **Research assistant, UC Irvine**, Sep. 2019 - Jan. 2020
+- **Research assistant, LSHTM**, Feb 2019 - Now
+
+<!-- slide vertical=true -->
+
+- **复旦大学中国象棋协会社长**, Sep. 2018 - Sep. 2019
+- **复旦大学学生会 新媒体中心副部长**, Sep. 2018 - Jan. 2019
+- **复旦大学公共卫生学院 17公管班班长**, Feb 2019 - Now
+- **复旦大学19级社会科学实验班 助辅**, Sep.2019 - Now
+- **复旦大学远征社 社员**, Sep. 2017 - Jan. 2018
+- **复旦大学中国象棋协会 社员**, Sep. 2017 - Sep. 2018
+- **复旦大学学生会**
+  - **文艺部干事**, Sep. 2017 - Jan. 2018
+  - **外联部干事**, Sep. 2017 - Jan. 2018
+  - **外联部部助**, Jan. 2018 - Jul. 2018
+
+<!-- slide -->
+
+## Awards
+
+<!-- slide vertical=true -->
+
+- **复旦大学中国象棋新生杯 男子组个人冠军**, Nov. 2017
+- **复旦大学远征社 优秀志愿者**, Sep. 2018 - Jan. 2019
+- **复旦大学本科生三等奖学金**, Sep. 2018
+- **复旦大学本科生三等奖学金**, Sep. 2019
+- **复旦大学学生会社团骨干领航计划优秀成员**, Sep. 2018
