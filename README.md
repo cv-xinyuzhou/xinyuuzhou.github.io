@@ -27,7 +27,7 @@ Welcome to my personal website!
 
 - Bachelor of Art in Management (Health Policy and Management Track)
 - Minor in Data Science
-  - GPA: 3.48
+  - GPA: 3.48/4.00
   - Ranking: 10/120
 - Double Major in Chinese Language and Literature
 
@@ -127,6 +127,8 @@ Welcome to my personal website!
 <!-- slide -->
 
 ## Thank you for reading!
+
+<!-- slide vertical=true -->
 
 我仍然认为，我是个幸福的人。因为我毕竟那样地生活过。因为生活毕竟给过我一个那样难忘的开始。我将永远回忆那绚美难再的朝霞和那颤动着从大地尽头一跃而出的太阳。我觉得那天的太阳也曾显示过最纯洁、最优美的人间的感情。哪怕我现在正踏在古歌《黑骏马》周而复始、低徊无尽的悲怆节拍上，细细咀嚼并吞咽着我该受的和强加于我的罪过与痛苦，我还是觉得：能做个内心丰富的人，明晓爱憎因由的人，毕竟还是人生之幸。
 **——张承志《黑骏马》**
