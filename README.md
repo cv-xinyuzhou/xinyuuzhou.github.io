@@ -47,7 +47,7 @@ Welcome to my personal website/CV!
 
 - **Risk communication before the COVID-19 outbreak: an analysis of media reports**
   - mentor: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
-- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo”**
+- **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo**
   - mentor: Prof. Zhiyuan Hou (Fudan University)
 - **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**
   - mentor: Prof. Tim Bruckner (UC Irvine)
@@ -114,7 +114,9 @@ Welcome to my personal website/CV!
 ## Thank you for reading!
 
 感谢网页原作者wu-kan
+
 原代码:https://github.com/wu-kan/wu-kan.github.io
+
 <!-- slide vertical=true -->
 
 我仍然认为，我是个幸福的人。因为我毕竟那样地生活过。因为生活毕竟给过我一个那样难忘的开始。我将永远回忆那绚美难再的朝霞和那颤动着从大地尽头一跃而出的太阳。我觉得那天的太阳也曾显示过最纯洁、最优美的人间的感情。哪怕我现在正踏在古歌《黑骏马》周而复始、低徊无尽的悲怆节拍上，细细咀嚼并吞咽着我该受的和强加于我的罪过与痛苦，我还是觉得：能做个内心丰富的人，明晓爱憎因由的人，毕竟还是人生之幸。
