@@ -8,9 +8,6 @@ Welcome to my personal website/CV!
 
 - Address: **Fudan University - 220 Handan Rd. - Shanghai, China**
 - Phone: **+86 17717069771**
-
-<!-- slide vertical=true -->
-
 - E-mail:
   - **[xinyuzhou17@fudan.edu.cn](xinyuzhou17@fudan.edu.cn)**
   - **[hsinyu.zhou@gmail.com](hsinyu.zhou@gmail.com)**
@@ -20,8 +17,6 @@ Welcome to my personal website/CV!
 <!-- slide -->
 
 ## Education
-
-<!-- slide vertical=true -->
 
 **School of Public Health, Fudan University, Shanghai, Sept. 2017 - Jul. 2022(expected)**
 
@@ -50,8 +45,6 @@ Welcome to my personal website/CV!
 
 ## Research in progress
 
-<!-- slide vertical=true -->
-
 - **Risk communication before the COVID-19 outbreak: an analysis of media reports**
   - mentor: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
 - **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo”**
@@ -63,8 +56,6 @@ Welcome to my personal website/CV!
 
 ## Skills
 
-<!-- slide vertical=true -->
-
 - **Python**, Familiar
   - **Web Crawler**, Familiar
   - **Machine Learning**, Learning
@@ -75,16 +66,12 @@ Welcome to my personal website/CV!
   - **Regression**, Familiar
   - **ggplot2**, Familiar&Learning
 
-<!-- slide vertical=true -->
-
 - **Markdown**, Familiar
 - **VSCode**, Familiar&Learning
 
 <!-- slide -->
 
 ## Internship
-
-<!-- slide vertical=true -->
 
 - **Research assistant, Fudan University**, Nov. 2018 - Now
 - **Research assistant, UC Irvine**, Sep. 2019 - Jan. 2020
@@ -107,8 +94,6 @@ Welcome to my personal website/CV!
 
 ## Awards
 
-<!-- slide vertical=true -->
-
 - **复旦大学中国象棋新生杯 男子组个人冠军**, Nov. 2017
 - **上海市中国象棋比赛 团体第二**, Dec 2017. 2017
 - **上海市中国象棋比赛 个人第七**, Dec 2017. 2017
@@ -128,10 +113,12 @@ Welcome to my personal website/CV!
 
 ## Thank you for reading!
 
-感谢网页原作者wu-kan~这是原代码https://github.com/wu-kan/wu-kan.github.io
+感谢网页原作者wu-kan
+原代码:https://github.com/wu-kan/wu-kan.github.io
 <!-- slide vertical=true -->
 
 我仍然认为，我是个幸福的人。因为我毕竟那样地生活过。因为生活毕竟给过我一个那样难忘的开始。我将永远回忆那绚美难再的朝霞和那颤动着从大地尽头一跃而出的太阳。我觉得那天的太阳也曾显示过最纯洁、最优美的人间的感情。哪怕我现在正踏在古歌《黑骏马》周而复始、低徊无尽的悲怆节拍上，细细咀嚼并吞咽着我该受的和强加于我的罪过与痛苦，我还是觉得：能做个内心丰富的人，明晓爱憎因由的人，毕竟还是人生之幸。
+
 **——张承志《黑骏马》**
 
 
