@@ -21,7 +21,6 @@ Welcome to my personal website/CV!
 **School of Public Health, Fudan University, Shanghai, Sept. 2017 - Jul. 2022(expected)**
 
 - Bachelor of Art in Management (Health Policy and Management Track)
-- Minor in Data Science
   - GPA: 3.48/4.00
   - Ranking: 10/120
 - Double Major in Chinese Language and Literature
@@ -66,9 +65,6 @@ Welcome to my personal website/CV!
   - **Regression**, Familiar
   - **ggplot2**, Familiar&Learning
 
-- **Markdown**, Familiar
-- **VSCode**, Familiar&Learning
-
 <!-- slide -->
 
 ## Internship
@@ -104,18 +100,7 @@ Welcome to my personal website/CV!
 
 <!-- slide -->
 
-## Social media
-
-- [zhihu](https://www.zhihu.com/people/yuan-ming-he-li)
-- [douban](https://www.douban.com/people/189055588/)
-
-<!-- slide -->
-
 ## Thank you for reading!
-
-感谢网页原作者wu-kan
-
-原代码:https://github.com/wu-kan/wu-kan.github.io
 
 <!-- slide vertical=true -->
 
