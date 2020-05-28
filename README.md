@@ -36,6 +36,10 @@ Welcome to my personal website/CV!
 
 - [Assessment of public attention, risk perception, emotional and behavioural responses to the COVID-19 outbreak: social media surveillance in China](https://www.medrxiv.org/content/10.1101/2020.03.14.20035956v1)
 
+- [Cross-Country Comparison of Public Attention, Rumours, and Behavioural Responses to the COVID-19 Epidemic: An Internet Surveillance Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586661)
+
+- [Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://www.researchgate.net/publication/341556103_Assessment_of_public_awareness_risk_perception_and_mental_health_burden_during_the_first_3_months_of_the_COVID-19_epidemic_in_China_a_social_media_surveillance_Preprint)
+
 - Please refer to 
   - [researchgate](https://www.researchgate.net/profile/Xinyu_Zhou33)
   - [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=lP_Xz1UAAAAJ)
@@ -102,10 +106,6 @@ Welcome to my personal website/CV!
 
 ## Thank you for reading!
 
-<!-- slide vertical=true -->
-
-我仍然认为，我是个幸福的人。因为我毕竟那样地生活过。因为生活毕竟给过我一个那样难忘的开始。我将永远回忆那绚美难再的朝霞和那颤动着从大地尽头一跃而出的太阳。我觉得那天的太阳也曾显示过最纯洁、最优美的人间的感情。哪怕我现在正踏在古歌《黑骏马》周而复始、低徊无尽的悲怆节拍上，细细咀嚼并吞咽着我该受的和强加于我的罪过与痛苦，我还是觉得：能做个内心丰富的人，明晓爱憎因由的人，毕竟还是人生之幸。
-
-**——张承志《黑骏马》**
+我仍然认为，我是个幸福的人。因为我毕竟那样地生活过。因为生活毕竟给过我一个那样难忘的开始。我将永远回忆那绚美难再的朝霞和那颤动着从大地尽头一跃而出的太阳。我觉得那天的太阳也曾显示过最纯洁、最优美的人间的感情。哪怕我现在正踏在古歌《黑骏马》周而复始、低徊无尽的悲怆节拍上，细细咀嚼并吞咽着我该受的和强加于我的罪过与痛苦，我还是觉得：能做个内心丰富的人，明晓爱憎因由的人，毕竟还是人生之幸。 **——张承志《黑骏马》**
 
 
