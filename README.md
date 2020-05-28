@@ -9,8 +9,8 @@ Welcome to my personal website/CV!
 - Address: **Fudan University - 220 Handan Rd. - Shanghai, China**
 - Phone: **+86 17717069771**
 - E-mail:
-  - **[xinyuzhou17@fudan.edu.cn](xinyuzhou17@fudan.edu.cn)**
-  - **[hsinyu.zhou@gmail.com](hsinyu.zhou@gmail.com)**
+  - **xinyuzhou17@fudan.edu.cn**
+  - **hsinyu.zhou@gmail.com**
 - WeChat: **17717069771**
 - QQ: **827167434**
 
