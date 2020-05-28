@@ -34,11 +34,11 @@ Welcome to my personal website/CV!
 
 ## Research items
 
-**2020.3**[Assessment of public attention, risk perception, emotional and behavioural responses to the COVID-19 outbreak: social media surveillance in China](https://www.medrxiv.org/content/10.1101/2020.03.14.20035956v1)
+**(2020.3)**[Assessment of public attention, risk perception, emotional and behavioural responses to the COVID-19 outbreak: social media surveillance in China](https://www.medrxiv.org/content/10.1101/2020.03.14.20035956v1)
 
-**2020.5**[Cross-Country Comparison of Public Attention, Rumours, and Behavioural Responses to the COVID-19 Epidemic: An Internet Surveillance Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586661)
+**(2020.5)**[Cross-Country Comparison of Public Attention, Rumours, and Behavioural Responses to the COVID-19 Epidemic: An Internet Surveillance Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586661)
 
-**2020.5**[Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://www.researchgate.net/publication/341556103_Assessment_of_public_awareness_risk_perception_and_mental_health_burden_during_the_first_3_months_of_the_COVID-19_epidemic_in_China_a_social_media_surveillance_Preprint)
+**(2020.5)**[Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://www.researchgate.net/publication/341556103_Assessment_of_public_awareness_risk_perception_and_mental_health_burden_during_the_first_3_months_of_the_COVID-19_epidemic_in_China_a_social_media_surveillance_Preprint)
 
 <!-- slide -->
 
@@ -103,5 +103,3 @@ Welcome to my personal website/CV!
 - **复旦大学本科生三等奖学金**, Sep. 2018
 - **复旦大学本科生三等奖学金**, Sep. 2019
 - **复旦大学学生会社团骨干领航计划优秀成员**, Sep. 2018
-
-
