@@ -40,7 +40,9 @@ Welcome to my personal website/CV!
 
 - [Assessment of public awareness, risk perception and mental health burden during the first 3 months of the COVID-19 epidemic in China: a social media surveillance](https://www.researchgate.net/publication/341556103_Assessment_of_public_awareness_risk_perception_and_mental_health_burden_during_the_first_3_months_of_the_COVID-19_epidemic_in_China_a_social_media_surveillance_Preprint)
 
-- Please refer to 
+<!-- slide -->
+
+- For more information, please refer to 
   - [researchgate](https://www.researchgate.net/profile/Xinyu_Zhou33)
   - [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=lP_Xz1UAAAAJ)
 
@@ -95,17 +97,11 @@ Welcome to my personal website/CV!
 ## Awards
 
 - **复旦大学中国象棋新生杯 男子组个人冠军**, Nov. 2017
-- **上海市中国象棋比赛 团体第二**, Dec 2017. 2017
-- **上海市中国象棋比赛 个人第七**, Dec 2017. 2017
+- **上海市中国象棋比赛 团体第二**, Dec. 2017
+- **上海市中国象棋比赛 个人第七**, Dec. 2017
 - **复旦大学远征社 优秀志愿者**, Sep. 2018 - Jan. 2019
 - **复旦大学本科生三等奖学金**, Sep. 2018
 - **复旦大学本科生三等奖学金**, Sep. 2019
 - **复旦大学学生会社团骨干领航计划优秀成员**, Sep. 2018
-
-<!-- slide -->
-
-## Thank you for reading!
-
-我仍然认为，我是个幸福的人。因为我毕竟那样地生活过。因为生活毕竟给过我一个那样难忘的开始。我将永远回忆那绚美难再的朝霞和那颤动着从大地尽头一跃而出的太阳。我觉得那天的太阳也曾显示过最纯洁、最优美的人间的感情。哪怕我现在正踏在古歌《黑骏马》周而复始、低徊无尽的悲怆节拍上，细细咀嚼并吞咽着我该受的和强加于我的罪过与痛苦，我还是觉得：能做个内心丰富的人，明晓爱憎因由的人，毕竟还是人生之幸。 **——张承志《黑骏马》**
 
 
