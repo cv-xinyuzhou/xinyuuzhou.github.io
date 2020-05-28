@@ -43,8 +43,8 @@ Welcome to my personal website/CV!
 <!-- slide -->
 
 - For more information, please refer to 
-  - [researchgate](https://www.researchgate.net/profile/Xinyu_Zhou33)
-  - [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=lP_Xz1UAAAAJ)
+  - [researchgate (Xinyu Zhou)](https://www.researchgate.net/profile/Xinyu_Zhou33)
+  - [google scholar (Xinyu Zhou)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=lP_Xz1UAAAAJ)
 
 <!-- slide -->
 
