@@ -18,14 +18,14 @@ Welcome to my personal website/CV!
 
 ## Education
 
-**School of Public Health, Fudan University, Shanghai, Sep. 2017 - Jul. 2022(expected)**
+**School of Public Health, Fudan University, Shanghai, China  Sep. 2017 - Jul. 2022(expected)**
 
 - Bachelor of Art in Management (Health Policy and Management Track)
   - GPA: 3.48/4.00
   - Ranking: 10/120
 - Double Major in Chinese Language and Literature
 
-**School of Social Science, University of California, Irvine, Sep. 2019 - Dec. 2019**
+**School of Social Science, University of California, Irvine, USA  Sep. 2019 - Dec. 2019**
 
 - UC exchange program
 - GPA: 4.00/4.00
