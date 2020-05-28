@@ -51,11 +51,11 @@ Welcome to my personal website/CV!
 ## Research in progress
 
 - **Risk communication before the COVID-19 outbreak: an analysis of media reports**
-  - mentor: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
+  - Supervisors: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
 - **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo**
-  - mentor: Prof. Zhiyuan Hou (Fudan University)
+  - Supervisor: Prof. Zhiyuan Hou (Fudan University)
 - **Time series analysis of Tweeting and behavioural response: a case study of Twitter hashtags surrounding the mass shooting and mental health emergency visit**
-  - mentor: Prof. Tim Bruckner (UC Irvine)
+  - Supervisor: Prof. Tim Bruckner (UC Irvine)
 
 <!-- slide -->
 
