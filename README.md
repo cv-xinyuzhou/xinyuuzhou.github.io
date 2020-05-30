@@ -48,9 +48,11 @@ Welcome to my personal website/CV!
 
 <!-- slide -->
 
-## Research in progress
+## Working papers
 
 - **Risk communication before the COVID-19 outbreak: an analysis of media reports**
+  - Supervisors: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
+- **Assessment of psychological impact of city closure and distant work in China: social media surveillance on Sina Weibo**
   - Supervisors: Prof. Zhiyuan Hou (Fudan University) and Prof. Leesa Lin (LSHTM)
 - **Vaccine hesitancy phenomenon during and after the Changsheng vaccine crisis: evidence from social network mining in Sina Weibo**
   - Supervisor: Prof. Zhiyuan Hou (Fudan University)
